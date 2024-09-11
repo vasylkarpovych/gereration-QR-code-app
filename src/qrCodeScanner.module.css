@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+  height: 100vh;
+  background: rgb(253, 239, 255);
+  border: 0.5px solid rgb(154, 25, 124);
+  border-radius: 12px;
+}
+
+.result {
+  font-size: 20px;
+  margin-bottom: 30px;
+  color: rgb(154, 25, 124);
+}
